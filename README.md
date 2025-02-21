@@ -46,7 +46,7 @@ The dataset contains **historical stock data** sourced from reputable financial 
 - **Expand Dataset**: Include more recent data to improve predictions.  
 
 ## 💌 Contact  
-- **Email:** ds075156@gmail.com  
-- **LinkedIn:** [Dhruv Singh](https://www.linkedin.com/in/dhruvsingh-data-analyst/)  
-- **GitHub:** [TCS Stock Analysis](https://github.com/dhru07/TCS_Stock_Data_Analysis_UM)  
+- **Email:** sweta.kanguri@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/swetak/)
+  
 
